@@ -10,8 +10,11 @@
 --->
 
 
-
+## Certificado de particpación Bootcamp Java Trainee
 ![Certificado Participación Bootcamp Java Trainee](https://raw.githubusercontent.com/urbinavidelapedro/oliviaRos/main/assets/img/certificado.jpg)
+
+## Certificado Sence Bootcamp Java Trainee
+![Certificado Sence Bootcamp Java Trainee](https://raw.githubusercontent.com/urbinavidelapedro/oliviaRos/main/assets/img/DescargarCertificadosence_page-0001.jpg)
 
 <!---
 urbinavidelapedro/urbinavidelapedro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
